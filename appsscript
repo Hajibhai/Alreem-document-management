@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CorpPanel</title>
+<style>
+body{
+margin:0;
+}
+iframe{
+width:100%;
+height:100vh;
+border:none;
+}
+</style>
+</head>
+
+<body>
+
+<iframe src="https://script.google.com/macros/s/AKfycbyvG9_cWhYTX74iJVD131NA1LLz9XInhp6NVv2Y2M70fASxiHf9M6gyzmpY5J4sdNxLPw/exec"></iframe>
+
+</body>
+</html>
